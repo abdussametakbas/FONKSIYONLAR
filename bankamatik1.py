@@ -55,23 +55,3 @@ def bakiyeSorgula(hesap):
 paraCek(SametHesap,9000)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
